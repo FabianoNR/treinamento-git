@@ -2,6 +2,6 @@ Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um
 Uma nova linha para testar a ramificação (branch).
 Adicionando uma terceira linha.
 Mais algum texto.
-
+Mais uma linha para testar o Fetch.
 Alteração pelo site. Simulando alteração feito pelo time.
 E lá vamos nós em maus um conflito. Tá virado numa faixa de Gaza isso aqui.
