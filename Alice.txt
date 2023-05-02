@@ -2,3 +2,5 @@ Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um
 Uma nova linha para testar a ramificação (branch).
 Adicionando uma terceira linha.
 Mais algum texto.
+
+Alteração pelo site. Simulando alteração feito pelo time.
